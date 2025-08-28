@@ -1,0 +1,1 @@
+This project is a modern ASP.NET Core Web API using C#, EF Core, SQL Server, and follows Repository + Unit of Work patterns, with dependency injection and async programming for scalable and maintainable design.
